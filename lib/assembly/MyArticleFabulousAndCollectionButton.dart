@@ -1,7 +1,7 @@
 /*
  * @Author: SQS 1491579574@qq.com
  * @Date: 2023-05-19 14:01:51
- * @LastEditors: ltpp-universe 1491579574@qq.com
+ * @LastEditors: eastspire 1491579574@qq.com
  * @LastEditTime: 2023-10-18 16:26:00
  * @FilePath: \LTPP-APP-Flutter\lib\assembly\MyArticleFabulousAndCollectionButton.dart
  * @Description: Email:1491579574@qq.com
